@@ -1,6 +1,8 @@
 # UK train dataset 🚆
 All known UK trains in one CSV file.
 
+This includes private and historic locomotives.
+
 Includes:
 - Number
 - Class
